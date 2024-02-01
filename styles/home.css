@@ -1,0 +1,104 @@
+.Inicio{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8em;
+    align-items: center;
+}
+.Saudação{
+    color: var(--cor-textos);
+    font-family: Roboto;
+    font-size: 1.4em;
+}
+.Link_saiba_mais{
+    margin-bottom: 8em;
+}
+.Titulo{
+    color: var(--cor-textos);
+    font-family: Roboto;
+    font-size: 3.5em;
+    margin-bottom: 1.5em;
+}
+.Saiba_Mais{
+    color: var(--branco);
+    font-family: Roboto;
+    font-size: 1.4em;
+    text-decoration: none;
+    padding: 1em;
+    background-color: var(--dark-gray);
+    border-radius: 20px;
+}
+.Saiba_Mais:hover{
+    color: var(--branco);
+    font-size: 1.444em;
+}
+.Redes__sociais{
+    display: flex;
+    gap: 1.8em;
+}
+.Minha_Foto img{
+    width: 38.625em;
+    height: 28.75em;
+}
+.Icons{
+    width: 1em;
+    height: 1em;
+}
+
+@media (width <= 992px){
+    .Inicio{
+        flex-direction: column;
+    }
+    .Saudação{
+        font-size: 2.4em;
+    }
+    .Titulo{
+        font-size: 5.5em;
+    }
+    .Links_home{
+        display: flex;
+        flex-direction: row;
+        gap: 7em;
+    }
+    .Links_inicio{
+        margin-bottom: 1em;
+    }
+}
+@media (width <= 768px){
+    .Titulo{
+        font-size: 4.5em;
+    }
+    .nome{
+        display: none;
+    }
+}
+@media (width <= 576px){
+    .Saudação{
+        font-size: 1.4em;
+        
+    }
+    .Titulo{
+        font-size: 3.5em;
+    }
+    .Intro{
+        text-align: center;
+    }
+    .Minha_Foto img{
+        width: 30.625em;
+        height: 20.75em;
+    }
+    .Saiba_Mais{
+        font-size: 1em;
+    }
+    .Link_saiba_mais{
+        display: none;
+    }
+    .Navegador{
+        font-size: 1em;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+    }
+    .Home{
+        display: none;
+    }
+}
