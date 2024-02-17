@@ -1,0 +1,17 @@
+@import url(styles/reset.css);
+@import url(styles/header.css);
+@import url(styles/home.css);
+@import url(styles/SobreMim.css);
+@import url(styles/projetos.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+:root{
+    --cor-textos: #445964;
+    --background: #E5E5E5;
+    --branco: #FFFFFF;
+    --dark-gray: #263138;
+}
+
+body{
+    background-color: var(--background);
+}

@@ -1,0 +1,29 @@
+.Quem_eu_sou{
+    color: var(--cor-textos);
+    font-size: 3.5em;
+    font-family: Roboto;
+    text-align: center;
+    margin-top: 1.2em;
+    
+}
+.Apresentação{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 4em;
+}
+.Texto{
+    width: 50%;
+    color: var(--cor-textos);
+    font-size: 1.4em;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: normal
+}
+.Programador{
+    width: 25%;
+    height: 25%;
+}
+strong{
+    color: var(--dark-gray);
+}
