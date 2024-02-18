@@ -19,7 +19,8 @@
 }
 .Navbar{
     display: flex;
-    gap: 7em;
+    justify-content: space-between;
+    gap: 2em;
 }
 .Navegador{
     color: var(--cor-textos);
