@@ -36,8 +36,8 @@
     gap: 1.8em;
 }
 .Minha_Foto img{
-    width: 38.625em;
-    height: 28.75em;
+    width: 90%;
+    height: 90%;
 }
 .Icons{
     width: 1em;
@@ -74,23 +74,22 @@
 @media (width <= 576px){
     .Saudação{
         font-size: 1.4em;
-        
     }
     .Titulo{
-        font-size: 3.5em;
+        font-size: 3em;
     }
     .Intro{
         text-align: center;
     }
+    .Minha_Foto{
+        text-align: center;
+    }
     .Minha_Foto img{
-        width: 30.625em;
-        height: 20.75em;
+        width: 90%;
+        height: 90%;
     }
     .Saiba_Mais{
         font-size: 1em;
-    }
-    .Link_saiba_mais{
-        display: none;
     }
     .Navegador{
         font-size: 1em;
@@ -100,5 +99,15 @@
     }
     .Home{
         display: none;
+    }
+    .Link_saiba_mais{
+        display: none;
+    }
+    .Inicio{
+        margin-top: 4em;
+    }
+    .Links_home{
+        justify-content: center;
+        padding-bottom: 2em;
     }
 }
