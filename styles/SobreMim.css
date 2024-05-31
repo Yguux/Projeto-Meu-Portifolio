@@ -27,3 +27,22 @@
 strong{
     color: var(--dark-gray);
 }
+@media (width <=1050px){
+    .Apresentação{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 5em;
+    }
+    .Texto{
+        width: 75%;
+    }
+    .Programador{
+        display: none;
+    }
+}
+@media (width < 450){
+    .sobremim{
+        display: none;
+    }
+}
