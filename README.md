@@ -6,7 +6,7 @@
 
 <h3>📁 Acesso ao projeto</h3>
 
-<p>pode estar acessando o projeto por meio <a href="https://projeto-meu-portifolio.vercel.app">deste link<</p>
+<p>pode estar acessando o projeto por meio <a href="https://projeto-meu-portifolio.vercel.app">deste link</p>
 
 
 
