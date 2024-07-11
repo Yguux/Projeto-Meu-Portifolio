@@ -8,6 +8,9 @@
 
 <p>pode estar acessando o projeto por meio <a href="https://projeto-meu-portifolio.vercel.app" target="_blank">deste link</p>
 
+<h3>Técnologias utilizadas</h3>
 
-
-
+*HTML
+*CSS
+*GIT
+*FIGMA
