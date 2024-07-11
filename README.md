@@ -10,7 +10,7 @@
 
 <h3>Técnologias utilizadas:</h3>
 
-*HTML<br>
-*CSS<br>
-*GIT<br>
-*FIGMA<br>
+* HTML<br>
+* CSS<br>
+* GIT<br>
+* FIGMA<br>
