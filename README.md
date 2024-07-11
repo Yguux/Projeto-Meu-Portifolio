@@ -4,13 +4,13 @@
 
 <h2>O projeto tem como intuitor ser um simples portifólio onde é possível visualizar meus meios de contato, minhas hábilidades e em breve uma página com os meus projetos</h2>
 
-<h3>📁 Acesso ao projeto</h3>
+<h3>📁 Acesso ao projeto:</h3>
 
 <p>pode estar acessando o projeto por meio <a href="https://projeto-meu-portifolio.vercel.app" target="_blank">deste link</p>
 
-<h3>Técnologias utilizadas</h3>
+<h3>Técnologias utilizadas:</h3>
 
-*HTML
-*CSS
-*GIT
-*FIGMA
+*HTML<br>
+*CSS<br>
+*GIT<br>
+*FIGMA<br>
